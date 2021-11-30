@@ -1,0 +1,7 @@
+{
+    "entry": "index.ts",
+    "template": "index.html",
+    "deploy": {
+
+    }
+}
